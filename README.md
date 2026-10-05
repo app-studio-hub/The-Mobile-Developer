@@ -1,5 +1,4 @@
 Privacy Policy
-
 This privacy policy applies to the Easy Thai app for mobile devices, together with any related services operated by Zin Ko Oo (collectively, the "Application"). Zin Ko Oo is hereby referred to as the "Service Provider".
 
 

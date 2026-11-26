@@ -19,12 +19,12 @@ The Application or its third-party SDKs may use cookies, SDKs, pixels, and simil
 
 Your Rights
 
-You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at zinko9890@gmail.com.
+You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at zinko.developer85@gmail.com.
 
 
 Your California privacy rights (CCPA/CPRA)
 
-If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at zinko9890@gmail.com.
+If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at zinko.developer85@gmail.com.
 
 The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
 
@@ -64,7 +64,7 @@ Opt-Out Rights
 
 You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
 
-To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at zinko9890@gmail.com.
+To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at zinko.developer85@gmail.com.
 
 
 Data Retention Policy
@@ -101,7 +101,7 @@ Changes
 The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
 
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at zinko9890@gmail.com.
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at zinko.developer85@gmail.com.
 
 
 This privacy policy is effective as of 2026-10-05
